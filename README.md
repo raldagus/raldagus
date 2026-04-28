@@ -26,4 +26,4 @@ Desarrolladora web fullstack autodidacta apasionada por crear aplicaciones web c
 
 ## 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/agustina-leiva-daza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/rocio-agustina-leiva-daza-587085273)
